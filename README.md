@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dineish v s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dineish v s" height="30" width="40" /></a>
-<a href="https://instagram.com/dineishvs._." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dineishvs._." height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dineishvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dineishvs" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dineishvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dineish v s" height="30" width="40" /></a>
+<a href="https://instagram.com/dineish._.vs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dineishvs._." height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Dineish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dineishvs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
