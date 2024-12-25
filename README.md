@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SSaSQ88JtLzNTO9VbMEgSQBRVSXwHHkC/view?usp=drive_link](https://drive.google.com/file/d/1SSaSQ88JtLzNTO9VbMEgSQBRVSXwHHkC/view?usp=drive_link)
 
-- ⚡ Fun fact **💡 Debugging is like being a detective in a crime drama where you are also the criminal.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
